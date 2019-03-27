@@ -1,2 +1,2 @@
 Sample file is created in Local directory.	_(v0.0.0.1)
-Modify this file into release directory
+Modify this file into into release branch in server repository
